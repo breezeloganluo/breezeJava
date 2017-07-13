@@ -1,1 +1,0 @@
-define(function(require, exports, module) {	var FW = require("../../breeze/framework/js/BreezeFW");	var type = null;	var nodeId = "1234";		FW.register(		{			name:"logView",			onCreate:function(){				this.API.show('view_mainform');			},			FireEvent:{							},			TrigetEvent:{							}		}	);	return FW;});
