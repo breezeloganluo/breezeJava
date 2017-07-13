@@ -1,0 +1,12 @@
+﻿<description>
+	<ContentDir>dest/breezeJava.zip</ContentDir>
+	<PatchDir>dest/breezeJava_patch.zip</PatchDir>
+	<DocDir>dest/breezeJava_doc.zip</DocDir>
+	<Type>BreezeJava</Type>
+	<Version>1.55</Version>
+	<VersionDesc>
+	  1.重写了定时器机制，保证其中一个异常不会影响其他
+          2.定时器增加了日志信息
+          3.修复事务的泄露的bug
+	</versionDesc>
+<description>

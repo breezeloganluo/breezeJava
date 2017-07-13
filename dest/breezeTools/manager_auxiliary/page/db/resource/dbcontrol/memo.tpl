@@ -1,0 +1,1 @@
+<a href="#" onclick="FireEvent.showMemo('${data.alias}','${data.idx}');return false;">${data.text}</a>

@@ -1,0 +1,1 @@
+java -jar jsrun.jar app/run.js -e=UTF-8 -t=templates/jsdoc in/*.js

@@ -1,0 +1,10 @@
+﻿<description>
+	<ContentDir>dest/breezeTools.zip</ContentDir>
+	<PatchDir>dest/breezeTools_patch.zip</PatchDir>
+	<DocDir>dest/breezeTools_doc.zip</DocDir>
+	<Type>BreezeTools</Type>
+	<Version>1.91</Version>
+	<VersionDesc>
+	  文件比较修复了两个bug
+	</versionDesc>
+<description>

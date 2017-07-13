@@ -1,0 +1,25 @@
+{
+    actor:[
+          {
+                 name:"普通用户",
+                 desc:"只是普通的用户而已"
+          }
+    ],
+    funsrs:[
+            {
+                name:"分类1",
+                type:"folder",
+                children:[
+                        {
+                            name:"功能点1",
+                            actor:"普通用户",
+                            scene:"用户的使用场景",
+                            precondition:"前置条件",
+                            desc:"需求描述",
+                            exception:"异常说明",
+                            type:"item"
+                        }
+                ]
+            }
+    ]
+}
